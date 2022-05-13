@@ -1,5 +1,6 @@
 # compiled output
 /.git
+.env
 /dist
 /node_modules
 
